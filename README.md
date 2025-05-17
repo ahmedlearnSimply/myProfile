@@ -1,69 +1,94 @@
-# 👋 Hey, I'm Ahmed Adel
+<div align="center">
+   <h1>Hey there, I'm <a href="https://learrnsimply.com">Ahmed Adel</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+   <h3>🇪🇬 Flutter Developer | 🎓 Arabic Content Creator | 🎥 YouTuber @ Learn Simply</h3>
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
+</div>
 
-I'm a **Flutter developer**, **content creator**, and founder of [Learn Simply](https://learrnsimply.com) — an Arabic-first platform and YouTube channel with over **230K subscribers** helping beginners master programming through clean visuals, animations, and simple explanations.
+<p align="center">
+   <a href="https://linkedin.com/in/ahmed-adel-11bba6177"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/ahmed.aaddel"><img height="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg"></a>&nbsp;&nbsp;
+   <a href="https://facebook.com/ahmed.learnsimply"><img height="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg"></a>&nbsp;&nbsp;
+   <a href="https://learrnsimply.com"><img height="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Internet.svg"></a>&nbsp;&nbsp;
+   <a href="https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1"><img height="30" src="https://raw.githubusercontent.com/youtube/logos/master/png/social/yt_logo_rgb_light.png"></a>
+</p>
 
----
+<div align="center">
+  <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Ahmed Adel | 💻 Flutter Dev | 🎤 Educator | 🇪🇬 Egypt <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
 
-## 🚀 What I Do
+<p align="center">
+   <a href="https://visitor-badge.glitch.me/badge?page_id=ahmedlearnSimply.ahmedlearnSimply"> 
+     <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=ahmedlearnSimply.ahmedlearnSimply"> 
+   </a>
+</p>
 
-- 🎯 Specialize in **Flutter UI/UX with smooth animations**
-- 🎥 Run a **YouTube channel**: [Learn Simply on YouTube](https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1)
-- 📚 Build and sell programming courses at [learrnsimply.com](https://learrnsimply.com)
-- 💬 Teach Python, Java, C++, Dart, Git, VS Code & more — in Arabic
-- 💻 Work on open-source Flutter UI kits, components, and tools
+<h5 align="center">
+   <i>⚡️ Teaching code in Arabic to inspire the next generation of developers ⚡️</i>
+</h5>
 
----
-
-## 📌 Featured Projects
-
-- 🔹 Flutter Animation Gallery (coming soon)
-- 🔹 Clean UI Kits and App Templates
-- 🔹 Code Behind the YouTube Tutorials
-- 🔹 Problem-Solving Series in C++
-- 🔹 Portfolio Mini-Apps and Challenges
-
----
-
-## 💼 Connect with Me
-
-- 🌐 Website: [learrnsimply.com](https://learrnsimply.com)
-- 📺 YouTube: [Learn Simply](https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1)
-- 📸 Instagram: [@ahmed.aaddel](https://instagram.com/ahmed.aaddel)
-- 💼 LinkedIn: [Ahmed Adel](https://linkedin.com/in/ahmed-adel-11bba6177)
-- 📘 Facebook: [Ahmed Learn Simply](https://facebook.com/ahmed.learnsimply)
-- 💬 Telegram Group: [Ask Me Anything](https://t.me/+ooZ3okEMe1A2MWFk)
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
 ---
 
-## 🛠️ Languages & Tools
+## 👨‍🏫 About Me
 
-- 🧠 Flutter / Dart  
-- 💡 C++ / Java / Python  
-- 🎨 Adobe XD / Figma (UI/UX)  
-- 🧰 Git / GitHub / GitHub Copilot  
-- 🖥️ VS Code / Terminal  
+- 💻 I build beautiful and animated **Flutter apps**
+- 🌍 Founder of [learrnsimply.com](https://learrnsimply.com)
+- 📺 I teach over **230K subscribers** on YouTube in Arabic
+- 🧠 I create content on **Flutter, Python, Java, C++, and GitHub**
+- 🎯 My mission is to simplify learning for Arabic speakers
+- ✨ I design full **UI Kits**, animations, and clean reusable components
+
+---
+
+## 🛠 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/dart.svg" width="30">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/flutter.svg" width="30">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/cpp.svg" width="30">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/java.svg" width="30">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" width="30">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" width="30">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" width="30">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/github.svg" width="30">
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ahmed Adel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=radical" />
+</p>
 
 ---
 
-## ✨ Motto
+## 🎯 What I Do
 
-> **"Let’s simplify learning, one line of code at a time."**
+- 🎬 Teach programming on [YouTube](https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1)
+- 🛠 Build Flutter apps with animation
+- 💼 Help students break into tech
+- 📚 Create full Arabic programming courses
+- 💬 Share tips about GitHub, VS Code, and app design
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+</p>
 
 ---
 
-## 🙌 Support
+## 🤝 Support
 
-- ⭐ Star my repositories if you find them useful  
-- 🧠 Use my code in your learning projects  
-- 📢 Share my tutorials with friends  
-- 🤝 Open to collabs in Flutter & education
+<p align="center">
+  🎀 Contributions, ⭐ stars, and 🔥 feedback are always welcome!  
+  💙 If you find my work helpful, share it and help more people learn!
+</p>
 
----
+<p align="center">Made with ❤️ in Egypt</p>
 
-**Made with ❤️ from Egypt**
+<h1 align="center">⚡️<i>Keep learning, keep building</i>⚡️</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
