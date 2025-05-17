@@ -1,19 +1,18 @@
 <div align="center">
-   <h1>Hey there, I'm <a href="https://learrnsimply.com">Ahmed Adel</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-   <h3>🇪🇬 Flutter Developer | 🎓 Arabic Content Creator | 🎥 YouTuber @ Learn Simply</h3>
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
+   <h1>Hey there, I'm <a href="https://learrnsimply.com">Ahmed Adel</a></h1>
+   <h3>Flutter Developer | 🎓 Arabic Content Creator | 🎥 YouTuber @ اتعلم ببساطة</h3>
 </div>
 
 <p align="center">
    <a href="https://linkedin.com/in/ahmed-adel-11bba6177"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
    <a href="https://instagram.com/ahmed.aaddel"><img height="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg"></a>&nbsp;&nbsp;
    <a href="https://facebook.com/ahmed.learnsimply"><img height="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg"></a>&nbsp;&nbsp;
-   <a href="https://learrnsimply.com"><img height="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Internet.svg"></a>&nbsp;&nbsp;
-   <a href="https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1"><img height="30" src="https://raw.githubusercontent.com/youtube/logos/master/png/social/yt_logo_rgb_light.png"></a>
+
+
 </p>
 
 <div align="center">
-  <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Ahmed Adel | 💻 Flutter Dev | 🎤 Educator | 🇪🇬 Egypt <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+  <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Ahmed Adel | 💻 Flutter Dev | 🎤 Educator | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 <p align="center">
